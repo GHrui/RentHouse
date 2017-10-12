@@ -1,8 +1,8 @@
 # RentHouse
 [![License: GPL v3](https://img.shields.io/github/license/ghrui/renthouse.svg)](http://www.gnu.org/licenses/gpl-3.0)<br/>
 This web application help people(especialy graduates) to find rental house.<br/>
-I had get a data of rental house which is in the data file.
-Idea come from [ShiYanLou](https://www.shiyanlou.com/courses/599)
+I had get a data of rental house which is in the data file.<br/>
+Idea come from [ShiYanLou](https://www.shiyanlou.com/courses/599)<br/>
 Data Source is from [58.com](http://bj.58.com/pinpaigongyu/)
 ## Language
 HTML, JavaScript, Python
